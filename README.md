@@ -3,6 +3,7 @@
 ![license](http://img.shields.io/badge/license-Apache%20v2-orange.svg)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1651/badge)](https://bestpractices.coreinfrastructure.org/projects/1651)
 [![Docker Automated build](https://img.shields.io/docker/automated/banzaicloud/pipeline.svg)](https://hub.docker.com/r/banzaicloud/pipeline/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkozmagabor%2Fpipeline.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkozmagabor%2Fpipeline?ref=badge_shield)
 
 
 _Banzai Pipeline, or simply Pipeline is a tabletop reef break located in Hawaii, Oahu's North Shore. The most famous and infamous reef on the planet is forming the benchmark by which all other waves are measured._
@@ -236,3 +237,6 @@ Thanks you for your contribution and being part of our community. Please read [C
 ### License
 
 Pipeline is open sourced under the Apache 2.0 license. See the [LICENSE](LICENSE.md) file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkozmagabor%2Fpipeline.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkozmagabor%2Fpipeline?ref=badge_large)
